@@ -93,6 +93,15 @@ $ cd latihan1``
 * Pada laman github, klik tombol start a project, atau
 * Dari menu (icon +) klik New Repository
 
+![Screenshot 2020-10-18 004612](https://user-images.githubusercontent.com/72905634/96361986-fab6cc00-10de-11eb-83ab-f79a2b5f71ee.png)
+
+### Membuat repository server
+
+* Isi nama repositorynya, misal: labpy1.
+* lalu klik tombol Create repository
+
+
+
 
 
 
