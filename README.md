@@ -76,6 +76,9 @@ $ cd latihan1``
 `$ git add README.md`
 * File *README.md* berhasil ditambahkan.
 
+![Screenshot 2020-10-18 004416](https://user-images.githubusercontent.com/72905634/96361906-6fd5d180-10de-11eb-9898-cec510968146.png)
+
+
 
 
 
