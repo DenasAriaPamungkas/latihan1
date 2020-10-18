@@ -78,6 +78,14 @@ $ cd latihan1``
 
 ![Screenshot 2020-10-18 004416](https://user-images.githubusercontent.com/72905634/96361906-6fd5d180-10de-11eb-9898-cec510968146.png)
 
+### `Commit` (Menyimpan perubahan ke database)
+
+* Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit”
+`$ git commit -m “File pertama saya”`
+* Perubahan berhasil disimpan.
+
+
+
 
 
 
