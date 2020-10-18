@@ -68,5 +68,14 @@ $ cd latihan1``
 `$ echo “# Latihan 1” >> README.md`
 * File *README.md* berhasil dibuat.
 
+![Screenshot 2020-10-18 004358](https://user-images.githubusercontent.com/72905634/96361878-356c3480-10de-11eb-971b-5ec5fdc15a31.png)
+
+### Menambahkan File baru pada repository
+
+* Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
+`$ git add README.md`
+* File *README.md* berhasil ditambahkan.
+
+
 
 
