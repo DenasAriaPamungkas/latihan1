@@ -30,7 +30,6 @@ $ git config --global user.name “nama_user"
 
 $ git config --global user.email “nama_user”
 
-![Anotasi 2020-10-18 132356](https://user-images.githubusercontent.com/72904723/96360854-f7f1c080-114a-11eb-856a-fcadabe70f4f.png)
 
 ### Perintah Dasar Git
 
