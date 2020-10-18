@@ -84,6 +84,17 @@ $ cd latihan1``
 `$ git commit -m “File pertama saya”`
 * Perubahan berhasil disimpan.
 
+![Screenshot 2020-10-18 004515](https://user-images.githubusercontent.com/72905634/96361928-9a278f00-10de-11eb-9481-00de8ae5ce8f.png)
+
+### Membuat repository server
+
+* Server reopsitory yang akan kita gunakan adalah (http://github.com)
+* Anda harus membuat akun terlebih dahulu.
+* Pada laman github, klik tombol start a project, atau
+* Dari menu (icon +) klik New Repository
+
+
+
 
 
 
