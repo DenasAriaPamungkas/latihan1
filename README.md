@@ -51,6 +51,7 @@ $ git config --global user.email “nama_user”
 ``$ mkdir latihan1
 $ cd latihan1``
 
+![Screenshot 2020-10-18 004358](https://user-images.githubusercontent.com/72905634/96362263-fa1f3500-10e0-11eb-910a-a15b007c80dd.png)
 
 
 * Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd ``(change directory)``
@@ -60,7 +61,10 @@ $ cd latihan1``
 
 * Jalankan perintah git init, untuk membuat repository local.
 `$ git init`
-![Anotasi 2020-10-18 132716](https://user-images.githubusercontent.com/72904723/96361201-0392b680-114e-11eb-8566-6dac0b756bd4.png)
+
+![Screenshot 2020-10-18 004416](https://user-images.githubusercontent.com/72905634/96362286-14591300-10e1-11eb-9cb6-96a4cb1365e4.png)
+
+
 * Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .git
 * Pada direktori tersebut, semua perubahan pada `working directory` akan disimpan.
 
@@ -71,7 +75,8 @@ $ cd latihan1``
 `$ echo “# Latihan 1” >> README.md`
 * File README.md berhasil dibuat.
 
-![Anotasi 2020-10-18 132913](https://user-images.githubusercontent.com/72904723/96361327-f924ec80-114e-11eb-81cd-d51e5ffa25bb.png)
+![Screenshot 2020-10-18 004515](https://user-images.githubusercontent.com/72905634/96362317-436f8480-10e1-11eb-85fb-fcf5a401d23d.png)
+
 
 ### Menambahkan File baru pada repository
 
@@ -79,7 +84,7 @@ $ cd latihan1``
 `$ git add README.md`
 * File README.md berhasil ditambahkan.
 
-![Anotasi 2020-10-18 133225](https://user-images.githubusercontent.com/72904723/96361427-b9aad000-114f-11eb-9ae2-af615bd9a7cb.png)
+![Screenshot 2020-10-18 004612](https://user-images.githubusercontent.com/72905634/96362332-5aae7200-10e1-11eb-9d48-b507dd6182ad.png)
 
 ### `Commit` (Menyimpan perubahan ke database)
 
@@ -87,7 +92,7 @@ $ cd latihan1``
 `$ git commit -m “File pertama saya”`
 * Perubahan berhasil disimpan.
 
-![Anotasi 2020-10-18 133316](https://user-images.githubusercontent.com/72904723/96361474-3047cd80-1150-11eb-8ba1-af05cc05582d.png)
+
 
 ### Membuat repository server
 
