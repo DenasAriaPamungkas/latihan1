@@ -105,18 +105,14 @@ $ cd latihan1``
 * Pada laman github, klik tombol start a project, atau
 * Dari menu (icon +) klik New Repository
 
-
-![Screenshot 2020-10-18 134015](https://user-images.githubusercontent.com/72906441/96362340-bff07a80-1156-11eb-8a27-c57d9abeffff.png)
-
+![Screenshot 2020-10-18 004854](https://user-images.githubusercontent.com/72905634/96363882-c4cc1480-10eb-11eb-88ce-fb454e078bf7.png)
 
 ### Membuat repository server
 
 * Isi nama repositorynya, misal: labpy1.
 * lalu klik tombol Create repository
 
-
-![Screenshot 2020-10-18 140709](https://user-images.githubusercontent.com/72906441/96362634-e44d5680-1158-11eb-9336-b221505b44cd.png)
-
+![Screenshot 2020-10-18 004939](https://user-images.githubusercontent.com/72905634/96363897-e3321000-10eb-11eb-884b-5615fa1e8f14.png)
 
 ### Menambahkan Remote Repository
 
