@@ -128,9 +128,7 @@ $ cd latihan1``
 `$ git push -u origin master
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
-
-![Screenshot 2020-10-18 150334](https://user-images.githubusercontent.com/72906441/96362962-69d20600-115b-11eb-877a-787b8146a4c6.png)
-
+![push rank](https://user-images.githubusercontent.com/72905634/96364028-06a98a80-10ed-11eb-9b08-468b33bb925a.png)
 
 ### Melihat hasilnya pada server repository
 
