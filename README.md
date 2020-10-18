@@ -120,8 +120,7 @@ $ cd latihan1``
 * Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url]
 `$ git remote add origin https://github.com/Taufikrauf/latihan1.git`
 
-
-![Screenshot 2020-10-18 145933](https://user-images.githubusercontent.com/72906441/96362844-74d86680-115a-11eb-9ef5-7d15ea494f24.png)
+![Screenshot 2020-10-18 005624](https://user-images.githubusercontent.com/72905634/96363933-4c198800-10ec-11eb-85e5-4b4fca4daa08.png)
 
 ### Push (Mengirim perubahan ke server)
 
